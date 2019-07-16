@@ -1,4 +1,6 @@
 # digit_recognizer
-digit_recognizer/
+digit_recognizer/*.csv
+digit_recognizer/*.pkl
+digit_recognizer/*.py
 !digit_recognizer/my_solution.py
 
