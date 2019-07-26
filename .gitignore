@@ -1,5 +1,9 @@
-# digit_recognizer
-digit_recognizer/*.csv
-digit_recognizer/*.pkl
-digit_recognizer/*.py
-!digit_recognizer/my_solution*.*
+*.vscode
+*.idea
+*__pycache__*
+
+**.csv
+**.pkl
+**.py
+**.txt
+!**my_solution*.*
